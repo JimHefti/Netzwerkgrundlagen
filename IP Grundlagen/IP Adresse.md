@@ -15,6 +15,7 @@ Statische IP-Adressen werden hingegen meist von Unternehmen genutzt, um innerhal
 
 ## IPv4
 IP-Adresse mit einem Bitcode von 32 Stellen oder auch vier Byte vor. Die IPv4 kann wahlweise als hexadezimale oder dezimale Zahlenkombination dargestellt werden. Für IPv4-Adressen wird üblicherweise die Dezimalschreibweise verwendet. Dazu werden die 32 Bit der IPv4-Adresse in jeweils 8 Bit aufgeteilt und durch Punkte getrennt.
+
 ![image](https://github.com/JimHefti/Netzwerkgrundlagen/assets/160615771/b6e5fe0a-7542-4a05-ac7d-42700debbb63)
 
 ## IPv6
