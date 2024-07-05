@@ -22,12 +22,14 @@ Um zwischen zwei Geräten zu kommunizieren, muss eine Anwendung zuerst eine Sitz
 
 ## 4. Schicht – Transportschicht
 Die Transportschicht ist dafür zuständig, Daten in kleinere Einheiten zu zerlegen. Wenn Daten innerhalb eines Netzwerks übertragen werden, werden sie nicht als ein Gesamtpaket versendet. Um die Übertragung effizienter und schneller zu machen, bricht die Transportschicht die Daten stattdessen in kleinere Bestandteile auf. Diese kleineren Teile enthalten Header-Informationen, sodass sie am Zielgerät wieder zusammengesetzt werden können. Segmentierte Daten besitzen außerdem eine Fehlerkontrolle, um der Sitzungsschicht mitzuteilen, ob sie eine erneute Verbindung herstellen muss, falls einzelne Packets fallen gelassen wurden oder unvollständig am Zielempfänger angekommen sind.
-![image](https://github.com/JimHefti/Netzwerkgrundlagen/assets/160615771/34457c00-a5b5-44d7-90bf-4c22858332d8)
+![image](https://github.com/JimHefti/Netzwerkgrundlagen/assets/160615771/28f4db36-0843-439d-bc41-58a88407df04)
+
 
 
 ## 3. Schicht – Vermittlungsschicht
 Die Vermittlungsschicht zerlegt Daten auf dem Sendergerät in kleinere Einheiten und setzt sie auf dem Empfängergerät wieder zusammen, wenn die Übertragung zwischen zwei verschiedenen Netzwerken stattfindet. Bei der Kommunikation innerhalb eines Netzwerks ist die Vermittlungsschicht überflüssig, aber die meisten Nutzer verbinden sich mit mehreren Netzwerken, etwa mit einer Cloud. In dem Fall bewegen sich Daten zwischen verschiedenen Netzwerken, und dann übernimmt die Vermittlungsschicht die Aufgabe, kleine Daten-Packets zu erstellen, die zu ihrem Ziel geroutet und auf dem Empfängergerät dann erneut zusammengesetzt werden können.
-![image](https://github.com/JimHefti/Netzwerkgrundlagen/assets/160615771/5db23086-744b-4a52-a269-2029762be54d)
+![image](https://github.com/JimHefti/Netzwerkgrundlagen/assets/160615771/1db51879-e871-4451-9d4e-3ffecade9600)
+
 
 
 ## 2. Schicht – Sicherungsschicht
