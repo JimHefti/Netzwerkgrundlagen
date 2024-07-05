@@ -8,6 +8,7 @@ ethtool ist eine Kommandozeilenwerkzeug unter Linux das zur Verwaltung und Konfi
 ### Install Tool
 
 sudo apt-get install -y ethtool
-
+## Anleitung
+https://wiki.ubuntuusers.de/ethtool/
 ## Zusammenfassung
 Ein leistungsfähiges Werkzeug zur Konfiguration und Diagnose von Netzwerkschnittstellen unter Linux. Es bietet detaillierte Kontrolle über die Hardware-Einstellungen der Netzwerkkarte.
