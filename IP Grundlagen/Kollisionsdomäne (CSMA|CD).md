@@ -1,0 +1,1 @@
+# Kollisionsdomäne (CSMA/CD)
