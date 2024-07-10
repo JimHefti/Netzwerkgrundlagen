@@ -9,3 +9,19 @@ Sie ist zuständig für die Übertragung von Daten zwischen Endsystemen und biet
 Diese Schicht kümmert sich um die Weiterleitung von Paketen über Netzwerkgrenzen hinweg und verwendet dafür das Internetprotokoll (IP).
 ## Netzwerkzugangsschicht: 
 Sie bezieht sich auf physikalische und hardwarenahe Protokolle, die für die tatsächliche Übertragung der Daten über das Medium verantwortlich sind.
+
+
+# Protokolle
+
+## Schicht 1 (Netzwerkzugangsschicht)
+
+
+## Schicht 2 (Internetschicht)
+
+
+
+## Schicht 3 (Transportschicht)
+
+
+
+## Schicht 4 (Anwendungsschicht)
