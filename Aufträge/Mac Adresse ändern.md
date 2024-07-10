@@ -17,5 +17,9 @@ Mac adresse geändert auf 0J:1I:2M:48:B5:66
 ![](image-5.png)
 
 
-## Überprüfung 
+## Überprüfung auf dem Ubuntu VM
+![](image-6.png)
 
+
+## Überprüfung Windows Device
+![alt text](image-7.png)
