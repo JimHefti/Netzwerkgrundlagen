@@ -33,3 +33,20 @@ ICMP,ARP und RARP
 HTTP: Wird zum Übertragen von Webseiten über das Internet verwendet.
 
 HTTPS: Eine sichere Version von HTTP, die Verschlüsselung über TLS/SSL verwendet.
+
+FTP: Dient dem Transfer von Dateien zwischen einem Client und einem Server.
+
+SMTP: Wird zum Senden von E-Mails verwendet.
+
+POP3: Werden zum Abrufen von E-Mails verwendet.
+
+DNS: Übersetzt Domainnamen in IP-Adressen.
+
+Telnet: Ermöglicht die Verbindung zu einem entfernten Rechner zur Verwaltung und Steuerung.
+
+SSH: Eine sichere Alternative zu Telnet für die Verwaltung und Steuerung von entfernten Rechnern.
+
+
+
+
+
