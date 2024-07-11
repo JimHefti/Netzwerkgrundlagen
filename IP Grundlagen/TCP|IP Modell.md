@@ -15,11 +15,14 @@ Sie bezieht sich auf physikalische und hardwarenahe Protokolle, die für die tat
 
 ## Schicht 1 (Netzwerkzugangsschicht)
 ICMP: Wird für Fehlermeldungen und Diagnosezwecke verwendet, z.B. bei der Durchführung von Ping-Tests.
+
 ARP: Übersetzt IP-Adressen in MAC-Adressen
+
 RARP: Übersetzt MAC-Adressen in IP-Adressen
 
 ## Schicht 2 (Internetschicht)
 TCP: Bietet eine zuverlässige, verbindungsorientierte Kommunikation zwischen Anwendungen.
+
 UDP: Bietet eine verbindungslose Kommunikation, die schneller, aber weniger zuverlässig ist als TCP.
 
 ## Schicht 3 (Transportschicht)
@@ -28,4 +31,5 @@ ICMP,ARP und RARP
 
 ## Schicht 4 (Anwendungsschicht)
 HTTP: Wird zum Übertragen von Webseiten über das Internet verwendet.
+
 HTTPS: Eine sichere Version von HTTP, die Verschlüsselung über TLS/SSL verwendet.
