@@ -1,4 +1,4 @@
-# Mac Adresse ändern mit Ubuntu und Windows
+# Mac Adresse ändern mit Windows
 
 ## Mac Adresse ändern Windows
 
