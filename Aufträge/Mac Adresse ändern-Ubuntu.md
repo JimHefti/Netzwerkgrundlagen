@@ -23,3 +23,8 @@ Mac adresse geändert auf 0J:1I:2M:48:B5:66
 
 ## Überprüfung Windows Device
 ![alt text](image-7.png)
+
+
+
+## Korigierung wen es nicht funktioniert
+![image](https://github.com/user-attachments/assets/38267322-b637-44de-986c-e341f833ea02)
