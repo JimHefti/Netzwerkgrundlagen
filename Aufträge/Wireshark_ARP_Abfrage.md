@@ -8,3 +8,12 @@ Als erstes über cmd ping auf die andere vm:
 Dan wiresahrk öffnen und die aktive schnitstelle wählen und arp in den filter eingeben jetzt nach den abfragen ARP Requst und ARP Reply suchen im wireshark.
 Hier im bild weis umkreis siehst du oben blau markiert den Request und unterhalb den Reply:
 ![image](https://github.com/user-attachments/assets/7d4e2abc-d5a9-4207-ae8f-fb8e9cef5826)
+
+
+
+
+# Mac adress von der anderen VM herausfinden
+## Von Windows die Linux Mac Adresse herausfinden
+
+## Von Linux die Mac Adresse von Windows herausfinden
+![image](https://github.com/user-attachments/assets/6a9f1c4c-ca9a-4d61-b840-a963af4d6315)
