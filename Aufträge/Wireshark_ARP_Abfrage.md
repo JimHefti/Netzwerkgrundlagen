@@ -14,6 +14,7 @@ Hier im bild weis umkreis siehst du oben blau markiert den Request und unterhalb
 
 # Mac adress von der anderen VM herausfinden
 ## Von Windows die Linux Mac Adresse herausfinden
+![image](https://github.com/user-attachments/assets/d7d7e4dd-21a1-44fb-8e4c-4030aa3ff096)
 
 ## Von Linux die Mac Adresse von Windows herausfinden
 ![image](https://github.com/user-attachments/assets/6a9f1c4c-ca9a-4d61-b840-a963af4d6315)
